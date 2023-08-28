@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zekeriya Semih Güler</h1>
 <h3 align="center">I am a passionate front-end developer with 2 years experience in native iOS development.</h3>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zackguler&label=Profile%20views&color=0e75b6&style=flat" alt="zackguler" /> </p>
 
 - 📫 How to reach me **zsmhguler@gmail.com**
 
